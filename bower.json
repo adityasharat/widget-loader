@@ -1,0 +1,7 @@
+{
+  "name": "widget-loader#gh-pages",
+  "private": true,
+  "dependencies": {
+    "seed-element": "adityasharat/widget-loader#master"
+  }
+}
